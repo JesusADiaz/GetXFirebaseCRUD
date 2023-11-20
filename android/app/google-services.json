@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1086408132778",
+    "project_id": "fir-getx-e7de7",
+    "storage_bucket": "fir-getx-e7de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086408132778:android:c501aaec0a68d78f98a8d3",
+        "android_client_info": {
+          "package_name": "com.example.firebasebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT--oSGd6gSLZTqQX7s2ccBHFCP3c3iTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086408132778:android:62a2e2bb2ab40b8a98a8d3",
+        "android_client_info": {
+          "package_name": "com.example.getxlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT--oSGd6gSLZTqQX7s2ccBHFCP3c3iTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086408132778:android:c041e550785772b698a8d3",
+        "android_client_info": {
+          "package_name": "com.example.getxloginjesus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT--oSGd6gSLZTqQX7s2ccBHFCP3c3iTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
